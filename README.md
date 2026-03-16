@@ -23,4 +23,4 @@ Load the `index.html` file in a web browser to view the 3D scene.
 This application uses data from the "Koshi Gaku" project of Fukui Prefectural Koshi High School.
 
 ## License
-Not specified
+MIT License — see [LICENSE](LICENSE).
